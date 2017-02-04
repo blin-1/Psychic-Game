@@ -1,0 +1,28 @@
+body {
+   background-repeat: no-repeat;
+   background-image: url(../images/ball.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 30% 30%;
+
+   background-color: #382E47;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size:30px;
+	/*color: #873E6A;*/
+	color: white;
+	font-weight: normal;
+}
+
+p {
+	font-family: 'Pacifico', cursive;
+	font-size:18px;
+	color: white;
+}
+
+#psychicimg {
+	height: 40%;
+	width: 40%;
+}
